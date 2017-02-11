@@ -1,4 +1,4 @@
-Bienvienidos a mi página personal.
+Bienvenidos a mi página personal.
 En esta página web podrás encontrar algunas de las prácticas que he realizado de las asignaturas del grado de Ingeniería Informática de la Universidad de La Laguna.
 
 Autor: Andrea Rodríguez Rivarés
